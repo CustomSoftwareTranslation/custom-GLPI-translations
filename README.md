@@ -1,0 +1,2 @@
+custom-GLPI-translations
+========================
